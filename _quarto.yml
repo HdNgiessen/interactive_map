@@ -1,0 +1,8 @@
+title: "Nachhaltige Orte Gießen"
+format:
+  html: 
+    page-layout: full
+    toc: false
+    theme: 
+      - cosmo
+      - custom.scss
