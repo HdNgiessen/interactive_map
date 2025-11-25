@@ -24,10 +24,10 @@ jobs:
             any::rmarkdown
             any::crosstalk 
             any::leaflet
-#            any::dplyr
-#            any::reactable
-#            any::DT
-#            any::htmltools
+            any::dplyr
+            any::reactable
+            any::DT
+            any::htmltools
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
