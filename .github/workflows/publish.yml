@@ -23,7 +23,7 @@ jobs:
           packages: |
             any::rmarkdown
             any::crosstalk 
-#            any::leaflet
+            any::leaflet
 #            any::dplyr
 #            any::reactable
 #            any::DT
