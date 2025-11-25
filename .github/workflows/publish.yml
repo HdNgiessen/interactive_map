@@ -22,12 +22,12 @@ jobs:
         with:
           packages: |
             any::rmarkdown 
-            any::leaflet
-            any::crosstalk
-            any::dplyr
-            any::reactable
-            any::DT
-            any::htmltools
+#            any::leaflet
+#            any::crosstalk
+#            any::dplyr
+#            any::reactable
+#            any::DT
+#            any::htmltools
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
