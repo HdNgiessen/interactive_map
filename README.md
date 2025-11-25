@@ -1,6 +1,6 @@
 ## Interaktive Karte Nachhaltige Orte in Gießen
 
-[thhaase.github.io/interactive_map/](thhaase.github.io/interactive_map/)
+[thhaase.github.io/interactive_map/](HdNgiessen.github.io/interactive_map/)
 
 Die Interaktive Karte wird im Rahmen des Seminars _Haus der Nachhaltigkeit 2_ bei Prof. Dr. York Kautt im WS23/24 erstellt. 
 Es werden Orte in Gießen abgebildet, welche im Zusammenhang mit Nachhaltigkeit und der ökologischen Transformation stehen.
